@@ -13,7 +13,7 @@
   - **FTDI FT232H** – через `pyftdi` (USB)
   - **Ethernet/SSH** – удалённый доступ через `paramiko` + `i2cget`/`i2cset`
   - **Демо-режим** – встроенный симулятор (опция `--demo`)
-  - **CH341T** – не поддерживается в Linux в текущей реализации (требуется `ch341dll` для Windows)
+  - **CH341T** – требуется проверка
 
 - 📊 **Измерения**:
   - VBUS, CURRENT, POWER, VSHUNT, DIETEMP
