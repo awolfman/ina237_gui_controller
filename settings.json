@@ -1,0 +1,10 @@
+{
+    "interface_type": "ftdi",
+    "device_path": "",
+    "i2c_address": 64,
+    "shunt_resistor": 0.001,
+    "max_current": 15.0,
+    "monitor_interval": 1000,
+    "theme": "light",
+    "demo_mode": true
+}
